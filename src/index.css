@@ -1,0 +1,92 @@
+body {
+  font-family: 'monserrat', san sans-serif;
+  background-color: darkseagreen;
+  color: #1ba098;
+}
+
+
+.navbar {
+  background-color: #e2d589;
+}
+
+
+header {
+  padding: 50px 15px 15px;
+}
+
+header h1 {
+  text-align: center;
+  color: #000000;
+  border: solid #20b2aa;
+  border-radius: 10px;
+  padding: 5px;
+  background-color: whitesmoke;
+}
+
+
+main {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+
+.newhouse {
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: whitesmoke;
+}
+
+.house-list h2 {
+  color: white;
+  padding: 5px 0px;
+  border-bottom: white solid;
+  text-align: center;
+  
+}
+.housename {
+  background-color: whitesmoke;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.housename h3 {
+  color: #aa9a3c;
+  
+}
+
+.housename-name h4 {
+padding: 0px 30px;
+color: black;
+font-size: 36px;
+
+
+}
+
+.homedescription label {
+  padding: 0px 15px;
+}
+
+.homedescription .room {
+  font-size: 25px;
+  font-style: italic;
+}
+
+.homedescription .area {
+  padding: 0px 30px;
+}
+
+.addRoom {
+  background-color: #e2d589;
+  border: solid;
+}
+
+.addRoom:hover {
+  background-color: #20b2aa;
+  color: white
+}
+
+.housename h3 {
+  padding-top: 30px;
+}
